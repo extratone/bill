@@ -1,2 +1,3 @@
-# bill
-Themes/custom configurations for Microsoft Windows and Microsoft Office.
+# Themeing and Custom Configuration for Microsoft Office and Windows 10
+
+A collection of theme and configuration files.
